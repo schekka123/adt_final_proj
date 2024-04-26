@@ -1,5 +1,5 @@
 {
-  "name": "NBAShotTracker",
+  "name": "adt_final_proj",
   "version": "1.0.0",
   "description": "## Background and Overview   ### Motivation:    * As an avid NBA fan, I wanted to create a tool to enable other fans to see the shot performance of their      favorite players. While the NBA stats website has a plethora of data that includes several variations of the short chart,    the goal of creating NBA Shot Tracker was to enable users to see the chronological shot performance of individual players    by game.    ### High Level Overview:    * The NBA Shot Tracker renders an animation of an individual player's shot performance. Users can    filter the data by game (game date), range, type of shot, and defending team.",
   "main": "index.js",
@@ -37,13 +37,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebaek/NBAShotTracker.git"
+    "url": "git+https://github.com/schekka123/adt_final_proj.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ebaek/NBAShotTracker/issues"
+    "url": "https://github.com/schekka123/adt_final_proj.git/issues"
   },
-  "homepage": "https://github.com/ebaek/NBAShotTracker#readme"
+  "homepage": "https://github.com/schekka123/adt_final_proj#readme"
 }
