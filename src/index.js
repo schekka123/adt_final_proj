@@ -28,7 +28,7 @@ function randomButton() {
        .append("input")
        .property("type", "button")
        .attr("class", "randombutton")
-       .attr("value", "Visualize the statistics")
+       .attr("value", "Visualize the statistic")
        .on("click", function(d, i) {
            d3.csv(`./dataset/${season.toString()}.csv`)
                .then(function (data) {
